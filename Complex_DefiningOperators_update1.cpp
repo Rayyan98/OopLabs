@@ -20,7 +20,7 @@ private:
 	}
 
 public:
-	Complex(int real, int imaginary)
+	Complex(float real, float imaginary)
 	{
 		this->real = real;
 		this->imaginary = imaginary;
